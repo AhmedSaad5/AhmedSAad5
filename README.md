@@ -1,10 +1,12 @@
 ### Hello! 👋 I'm Ahmed AbdulAziz 👋, Welcome To My Github Profile ♥
 ---------------------------------------------------------------------
+🚀 About Me
 
+I'm Ahmed AbdulAziz from Egypt.
+I really enjoy learning Programming languages and frameworks.
+I also enjoy Implementing of designs.
+For This Moment I'm junior web developer and learning increasingly.
 
-
-Here are some ideas to get you started:
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.
 
 
 
