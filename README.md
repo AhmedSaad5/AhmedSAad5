@@ -1,8 +1,8 @@
 ###                                                         Hello! 👋 I'm Ahmed AbdulAziz
                                     Computer Engineer & Software Developer from EGYPT 👋, Welcome To My Github Profile ♥
 ---------------------------------------------------------------------
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 ![Visitor Count](https://profile-counter.glitch.me/AhmedSAad5/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) <br><br>
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> ➔ About Me
 
 <p>
