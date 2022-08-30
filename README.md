@@ -3,11 +3,11 @@
 
 <hr>
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> About Me 
-p{
+
   🎓 I'm Graduated with Bachelor's Degree, Computer Science Faculty of Computers and Information Information System Department Assiut University text-align: center;
   💻 I love Writing code, Hardware and learning anything about them 😊 <br>
   📚 I’m currently learning about IOT and automation systems <br>
-}
+
                      
 💻 I love Writing code, Hardware and learning anything about them 😊 <br>
 📚 I’m currently learning about IOT and automation systems <br>
