@@ -2,8 +2,6 @@
                                     Computer Engineer & Software Developer from EGYPT 👋, Welcome To My Github Profile ♥
 ---------------------------------------------------------------------
 ![Visitor Count](https://profile-counter.glitch.me/AhmedSAad5/count.svg)
-<img src="68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d547970652b6d657373616765732b65766572797768657265213b4164642b612b62696f2b746f2b796f75722b70726f66696c65213b4164642b612b6465](https://user-images.githubusercontent.com/45937473/187440031-13e9bc0e-f987-4d29-a3d6-462f9296a18c.svg)
-" width=300 height400>
 <img src="https://user-images.githubusercontent.com/45937473/187442827-8a942356-f83b-4cdc-bd64-78a4b635eafb.gif" width=300 height400>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) <br><br>
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> ➔ About Me
