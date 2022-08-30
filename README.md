@@ -3,6 +3,14 @@
 
 <hr>
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> About Me 
+<div style="display:inline-block;vertical-align:top;">
+<img src="[https://loremflickr.com/320/240](https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif)" alt="img"/>
+</div>
+<div style="display:inline-block;">
+<p>
+About Me 
+</p>
+</div>
 
   🎓 I'm Graduated with Bachelor's Degree, Computer Science Faculty of Computers and Information Information System Department Assiut University text-align: center;
   💻 I love Writing code, Hardware and learning anything about them 😊 <br>
