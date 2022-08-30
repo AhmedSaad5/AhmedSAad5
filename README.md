@@ -1,6 +1,8 @@
 ###                                                         Hello! 👋 I'm Ahmed AbdulAziz
                                     Computer Engineer & Software Developer from EGYPT 👋, Welcome To My Github Profile ♥
 ---------------------------------------------------------------------
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![Visitor Count](https://profile-counter.glitch.me/AhmedSAad5/count.svg)
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> ➔ About Me
 
 <p>
@@ -19,7 +21,7 @@ For This Moment I'm junior web developer and learning increasingly.
          <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187434330-e54450c7-4cb6-4f27-a253-458125e78964.png"
          width="50" height="45">
       </a>
-      <a href="https://www.qries.com/](https://mail.google.com/mail/u/0/?tab=km#inbox">
+      <a href="https://mail.google.com/mail/u/0/?tab=km#inbox">
          <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187434330-e54450c7-4cb6-4f27-a253-458125e78964.png"
          width="50" height="45">
       </a>
