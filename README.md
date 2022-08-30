@@ -3,11 +3,13 @@
 ---------------------------------------------------------------------
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> ➔ About Me
 
-💻 I love Writing code, Hardware and learning anything about them 😊
+<p>
+  💻 I love Writing code, Hardware and learning anything about them 😊
 📚 I’m currently learning about IOT and automation systems
 I really enjoy learning Programming languages and frameworks.
 I also enjoy Implementing of designs.
 For This Moment I'm junior web developer and learning increasingly.
+</p>
 
 <img src="https://user-images.githubusercontent.com/45937473/186777755-c5bb49e4-c023-4cec-b3ce-73d3547b1f12.gif" width=300 height400>
 
