@@ -15,3 +15,24 @@ For This Moment I'm junior web developer and learning increasingly.
 
 
 
+
+Hi, I'm HalemoGPA, Computer Engineer & Software Developer from EGYPT
+
+🔬 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+🎓 I Finished high school at Ali Mubarak with 98% as a degree percentage
+💻 I love Writing code, Hardware and learning anything about them 😊
+📚 I’m currently learning about IOT and automation systems
+📫 How to reach me 👇
+
+      
+
+🔥 Languages & Frameworks & Tools & Abilities 🔥
+
+C C++ C# Python Django Javascript Problem Solving HTML5 CSS Git Visual Studio Code Microsoft Visual Studio JSON GitHub MySQL Flask
+
+⚡ Stats ⚡
+
+
+
+HalemoGPA buy me a coffee
+
