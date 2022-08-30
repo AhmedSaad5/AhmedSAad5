@@ -4,6 +4,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/AhmedSAad5/count.svg)<br><br>
 <img src="https://user-images.githubusercontent.com/45937473/187450107-5078ab51-8589-446d-8bd1-b4e0b4b7b3da.gif" width=300 height=250>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) <br><br>
+<hr>
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> ➔ About Me
 
 <p>
