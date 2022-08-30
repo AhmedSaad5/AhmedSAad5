@@ -1,9 +1,7 @@
 ###                                                         Hello! 👋 I'm Ahmed AbdulAziz
                                     Computer Engineer & Software Developer from EGYPT 👋, Welcome To My Github Profile ♥
 ---------------------------------------------------------------------
-<img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55>
-
-➔ About Me
+<img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> ➔ About Me
 
 💻 I love Writing code, Hardware and learning anything about them 😊
 📚 I’m currently learning about IOT and automation systems
