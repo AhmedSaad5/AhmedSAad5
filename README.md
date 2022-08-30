@@ -9,13 +9,11 @@
 I really enjoy learning Programming languages and frameworks.
 I also enjoy Implementing of designs.
 For This Moment I'm junior web developer and learning increasingly.
-📫 How to reach me 👇
-
 
 <img src="https://user-images.githubusercontent.com/45937473/186777755-c5bb49e4-c023-4cec-b3ce-73d3547b1f12.gif" width=300 height400>
 
 
-
+📫 How to reach me 👇
 
 
 
