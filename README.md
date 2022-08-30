@@ -16,8 +16,8 @@ For This Moment I'm junior web developer and learning increasingly.
 
       
 
-🔥 Languages & Frameworks & Tools & Abilities 🔥
-<img src="https://user-images.githubusercontent.com/45937473/187431367-a62b7ed3-30c0-4241-aa1d-147ff0edab68.png" width=60 height55>>
+🔥 Languages & Frameworks & Tools & Abilities 🔥<br>
+<img src="https://user-images.githubusercontent.com/45937473/187431367-a62b7ed3-30c0-4241-aa1d-147ff0edab68.png" width=50 height45>
 
 
 C C++ C# Python Django Javascript Problem Solving HTML5 CSS Git Visual Studio Code Microsoft Visual Studio JSON GitHub MySQL Flask
