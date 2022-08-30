@@ -9,10 +9,6 @@
   📚 I’m currently learning about IOT and automation systems <br>
 
                      
-💻 I love Writing code, Hardware and learning anything about them 😊 <br>
-📚 I’m currently learning about IOT and automation systems <br>
-
-
 <img src="https://user-images.githubusercontent.com/45937473/186777755-c5bb49e4-c023-4cec-b3ce-73d3547b1f12.gif" width=300 height400>
 
 
@@ -21,9 +17,9 @@
          <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187434330-e54450c7-4cb6-4f27-a253-458125e78964.png"
          width="50" height="45">
       </a>
-      <a href="https://mail.google.com/mail/u/0/?tab=km#inbox">
-         <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187434330-e54450c7-4cb6-4f27-a253-458125e78964.png"
-         width="50" height="45">
+      <a href="https://www.facebook.com/DxMrHaker">
+         <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187456410-98b2c5eb-49fb-4c8f-ba60-b6fa994be4d5.png"
+              width="50" height="45">
       </a>
       
 
