@@ -15,7 +15,7 @@ For This Moment I'm junior web developer and learning increasingly.
 
 
 📫 How to reach me 👇
-
+<a href="asabdulaziz5@gmail.com">Gmail</a>
       
 
 🔥 Languages & Frameworks & Tools & Abilities 🔥<br><br>
