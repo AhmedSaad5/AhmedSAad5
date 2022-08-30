@@ -17,7 +17,7 @@ For This Moment I'm junior web developer and learning increasingly.
 📫 How to reach me 👇<br><br>
       <a href="https://www.qries.com/](https://mail.google.com/mail/u/0/?tab=km#inbox">
          <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187434330-e54450c7-4cb6-4f27-a253-458125e78964.png"
-         width="50" height="30">
+         width="50" height="45">
       </a>
       
 
