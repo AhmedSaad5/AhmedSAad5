@@ -1,8 +1,9 @@
 ###                                                         Hello! 👋 I'm Ahmed AbdulAziz
+<img src="https://user-images.githubusercontent.com/45937473/187450107-5078ab51-8589-446d-8bd1-b4e0b4b7b3da.gif" width=300 height=250 aling=cinter>
                                     Computer Engineer & Software Developer from EGYPT 👋, Welcome To My Github Profile ♥
 <hr>
 
-<img src="https://user-images.githubusercontent.com/45937473/187450107-5078ab51-8589-446d-8bd1-b4e0b4b7b3da.gif" width=300 height=250 aling=cinter>
+
 
 <hr>
 <img src="https://user-images.githubusercontent.com/45937473/187419128-e4628d24-ac10-4473-b923-c02c8f9ebe2f.gif" width=60 height55> About Me <hr>
