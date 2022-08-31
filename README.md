@@ -35,10 +35,9 @@ C C++ C# Python Django Javascript Problem Solving HTML5 CSS Git Visual Studio Co
 
 ###Fun fact: I once solved the world's oldest question with a single line of JavaScript :"D
 
-//  Which came first: the chicken or the egg?
-
-  console.log(['🥚', '🐣', '🐥', '🐔'].sort())
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+                                                  //  Which came first: the chicken or the egg?
+                                                      console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+                                                      >>> [ '🐔', '🐣', '🐥', '🥚' ]
 
 Ahmed AbdulAziz buy me a coffee 😉😎
 
