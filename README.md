@@ -6,7 +6,7 @@
 
   🎓 I'm Graduated with Bachelor's Degree, Computer Science Faculty of Computers and Information Information System Department Assiut University <br>
   💻 I love Writing code, Hardware and learning anything about them 😊 <br>
-  📚 I’m currently learning about IOT and automation systems <br>
+  📚 I’m currently learning about Networking and automation systems <br>
 
                      
 <img src="https://user-images.githubusercontent.com/45937473/186777755-c5bb49e4-c023-4cec-b3ce-73d3547b1f12.gif" width=300 height400>
