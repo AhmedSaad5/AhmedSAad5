@@ -16,12 +16,13 @@
       <a href="https://mail.google.com/mail/u/0/?tab=km#inbox">
          <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187434330-e54450c7-4cb6-4f27-a253-458125e78964.png"
          width="50" height="45">
+  <br> Frontend developer who has been working in the field for 2 years. I’m passionate about creating quality products that meet all customers’ needs..<br>
       </a>
       <a href="https://www.facebook.com/DxMrHaker">
          <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187456410-98b2c5eb-49fb-4c8f-ba60-b6fa994be4d5.png"
               width="50" height="45">
       </a>
-      Frontend developer who has been working in the field for 2 years. I’m passionate about creating quality products that meet all customers’ needs.
+      
 
 🔥 Languages & Frameworks & Tools & Abilities 🔥<br><br>
 <img src="https://user-images.githubusercontent.com/45937473/187431367-a62b7ed3-30c0-4241-aa1d-147ff0edab68.png" width=50 height45>
