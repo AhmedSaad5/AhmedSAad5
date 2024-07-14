@@ -23,12 +23,13 @@
       </a>
       
 
-🔥 Languages & Frameworks & Tools & Abilities 🔥<br><br>
-<img src="https://user-images.githubusercontent.com/45937473/187431367-a62b7ed3-30c0-4241-aa1d-147ff0edab68.png" width=50 height45>
+🔥 Languages & Frameworks & Tools & Abilities 🔥<br><be>
+<img src="[https://user-images.githubusercontent.com/45937473/187432108-927df91d-317b-4453-9603-979575ce85ad.png](https://w7.pngwing.com/pngs/752/651/png-transparent-angularjs-vue-js-others-angle-rectangle-triangle.png)" width=50 height45>
 <img src="https://user-images.githubusercontent.com/45937473/187432646-e683a81c-4bf5-4305-8496-4d71e8b5bb79.png" width=50 height45>
+<img src="https://user-images.githubusercontent.com/45937473/187431367-a62b7ed3-30c0-4241-aa1d-147ff0edab68.png" width=50 height45>
 <img src="https://user-images.githubusercontent.com/45937473/187432108-927df91d-317b-4453-9603-979575ce85ad.png" width=50 height45>
-<img src="https://user-images.githubusercontent.com/45937473/187432108-927df91d-317b-4453-9603-979575ce85ad.png" width=50 height45>
-<img src="https://user-images.githubusercontent.com/45937473/187432108-927df91d-317b-4453-9603-979575ce85ad.png" width=50 height45>
+<img src="[https://user-images.githubusercontent.com/45937473/187432108-927df91d-317b-4453-9603-979575ce85ad.png](https://cloud.z.com/vn/wp-content/uploads/2023/04/Screenshot_2-1.png)" width=50 height45>
+
 
 
 C C++ C# Python Django Javascript Problem Solving HTML5 CSS Git Visual Studio Code Microsoft Visual Studio JSON GitHub MySQL Flask
