@@ -17,10 +17,7 @@
          <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187434330-e54450c7-4cb6-4f27-a253-458125e78964.png"
          width="50" height="45">
       </a>
-      <a href="https://www.facebook.com/DxMrHaker">
-         <img alt="Gmail" src="https://user-images.githubusercontent.com/45937473/187456410-98b2c5eb-49fb-4c8f-ba60-b6fa994be4d5.png"
-              width="50" height="45">
-      </a>
+      
       
 
 🔥 Languages & Frameworks & Tools & Abilities 🔥<br><be>
