@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+![php](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat)&nbsp;
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET)&nbsp;
