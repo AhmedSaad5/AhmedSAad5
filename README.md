@@ -43,8 +43,8 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/muhamed-salih/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  muhamed salih-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/ahmed-abdulaz/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Ahmed AbdulAziz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
