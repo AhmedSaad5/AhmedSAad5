@@ -27,7 +27,7 @@
 ![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanemNaga&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
 <br/><br/>
 	
 ###Fun fact: I once solved the world's oldest question with a single line of JavaScript:"D
