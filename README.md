@@ -1,85 +1,55 @@
-                                                         Hello! 👋 I'm Ahmed Saad AbdulAziz
-                                    Computer Engineer & Software Developer from EGYPT - Cairo , Welcome To My Github Profile ♥
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+# Hello! 👋 I'm Ahmed Saad AbdulAziz  
+*Computer Engineer & Data Analyst from Cairo, Egypt*
 
-<h3 align="center">
-	
+---
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20Engineer;Turning%20data%20into%20insights&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</p>
+## About Me  
+🎓 I graduated with a degree in **Information Systems, Faculty of Computers & Information**, where I developed a strong foundation in data analysis, business intelligence, and database management.  
 
+📊 I'm passionate about turning data into insights and enjoy working with tools like **SQL, PL/SQL, Power BI, Tableau, and Excel** to support data-driven decisions.  
 
-<p>🏢 I'm a <strong>Data Analyst</strong></p>
-<p>🎓 I graduated with a degree in <strong>Information Systems, Faculty of Computers & Information</strong>, where I developed a strong foundation in data analysis, business intelligence, and database management.</p>
-<p>📊 I'm passionate about turning data into insights and love working with tools like <strong>SQL, PL/SQL, Power BI, Tableau, and Excel</strong> to support data-driven decisions.</p>
-<p>💬 Ask me about my experience with <strong>data visualization, reporting, dashboards</strong>, and translating business needs into analytical solutions.</p>
-<p>⚡ <strong>Fun Fact:</strong> I'm a coffee enthusiast — nothing kickstarts a data project like a hot cup of coffee!</p>
+💬 Ask me about my experience with data visualization, reporting, dashboards, and translating business needs into analytical solutions.  
 
+⚡ Fun fact: I'm a coffee enthusiast — nothing kickstarts a data project like a hot cup of coffee!
 
-### 🛠 &nbsp;Tech Stack
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-Web%20API-05122A?style=flat" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" style="height:30px;margin:5px;">
-  <img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=white" style="height:30px;margin:5px;">
-</div>
+---
 
+## Tech Stack  
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)  
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)  
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)  
+![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET)  
+![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat)  
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)  
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)  
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627)
 
+---
 
+## Projects 🚀  
+- [The-Little-Taco-Shop](https://github.com/AhmedSaad5/The-Little-Taco-Shop) — A web application for managing a taco shop’s menu and orders, demonstrating full-stack skills.  
+- [Bash_Project_ITI](https://github.com/AhmedSaad5/Bash_Project_ITI) — A collection of Bash scripts built during ITI for automating system tasks and data management.  
+- [Guess-My-Number](https://github.com/AhmedSaad5/Guess-My-Number) — An interactive number guessing game developed to practice JavaScript fundamentals.
 
+---
 
+## GitHub Stats  
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSaad5&show_icons=true&theme=radical)
 
+---
 
-<br/><br/>
-	
-###Fun fact: I once solved the world's oldest question with a single line of JavaScript:"D
+## Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AbdulAziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Gmail](https://img.shields.io/badge/Gmail-Ahmed%20AbdulAziz-red?style=flat&logo=gmail)](mailto:your-email@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0078D7?style=flat&logo=github)](https://your-portfolio-link.com)
 
-                                                  //  Which came first: the chicken or the egg?
-                                                      console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-                                                      >>> [ '🐔', '🐣', '🐥', '🥚' ]
-						       Ahmed AbdulAziz buy me a coffee 😉😎
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+---
 
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/ahmed-masoud93/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Ahmed AbdulAziz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:mod0yh74@gmai.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Ahmed AbdulAziz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-<br>
-
-
+⚡ Fun fact: Coffee fuels my data exploration!
