@@ -11,7 +11,7 @@
 
 ## About Me 
 
-🎓 I graduated with a degree in **Information Systems, Faculty of Computers & Information**, where I developed a strong foundation in data analysis, business intelligence, and database management.  
+🎓 I graduated with a degree in **Faculty of Computers & Information Asyut University - Information Systems**, where I developed a strong foundation in data analysis, business intelligence, and database management.  
 
 📊 I'm passionate about turning data into insights and enjoy working with tools like **SQL, PL/SQL, Power BI, Tableau, and Excel** to support data-driven decisions.  
 
