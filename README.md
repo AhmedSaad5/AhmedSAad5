@@ -63,7 +63,10 @@
 ---
 
 ## Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AbdulAziz-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/ahmed-masoud93/])  
+<a href="https://www.linkedin.com/in/ahmed-masoud93/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30"/>
+</a>
+  
 [![Gmail](https://img.shields.io/badge/Gmail-Ahmed%20AbdulAziz-red?style=flat&logo=gmail)](mailto:mod0yh74@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0078D7?style=flat&logo=github)](https://your-portfolio-link.com)
 
