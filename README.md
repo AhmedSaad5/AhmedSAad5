@@ -15,21 +15,23 @@
 ---
 
 ## Tech Stack  
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)  
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)  
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)  
-![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET)  
-![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat)  
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)  
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627)
+## Tech Stack  
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-Web%20API-05122A?style=flat" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="30" />
+
 
 ---
 
