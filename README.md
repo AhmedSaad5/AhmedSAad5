@@ -16,21 +16,22 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)&nbsp;
-![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET)&nbsp;
-![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-Web%20API-05122A?style=flat" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" style="height:30px;margin-right:5px;">
+<img src="https://img.shields.io/badge/-Tablea
+
 
 
 
