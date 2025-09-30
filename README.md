@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="85" width="85" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="85" width="85" />&nbsp;
   <img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" height="85" width="85" />&nbsp;
-    <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" height="85" width="85" />&nbsp;
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" height="85" width="85" />&nbsp;
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="85" width="85" />&nbsp;
   <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" height="85" width="85" />&nbsp;
   <img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" height="85" width="85" />&nbsp;
