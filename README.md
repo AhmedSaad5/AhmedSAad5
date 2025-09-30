@@ -43,7 +43,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/ahmed-abdulaz/" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-masoud93/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Ahmed AbdulAziz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -51,7 +51,7 @@
 <br>
 
 <li>
-<a href="mailto:asabdulaziz5@gmail.com" target="_blank">
+<a href="mailto:mod0yh74@gmai.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Ahmed AbdulAziz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
