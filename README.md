@@ -8,28 +8,28 @@
 
 📊 I'm passionate about turning data into insights and enjoy working with tools like **SQL, PL/SQL, Power BI, Tableau, and Excel** to support data-driven decisions.  
 
-💬 Ask me about my experience with data visualization, reporting, dashboards, and translating business needs into analytical solutions.  
+💬 Ask me about my experience with data visualisation, reporting, dashboards, and translating business needs into analytical solutions.  
 
 ⚡ Fun fact: I'm a coffee enthusiast — nothing kickstarts a data project like a hot cup of coffee!
 
 ---
 
 ## Tech Stack  
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-Web%20API-05122A?style=flat" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="55" />&nbsp;
-<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="55" />
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-Web%20API-05122A?style=flat" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="65" />&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="65" />
 
 
 
