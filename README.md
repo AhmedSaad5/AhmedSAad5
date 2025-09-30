@@ -7,8 +7,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20Engineer;Turning%20data%20into%20insights&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</p>
+
 
 <p>🏢 I'm a <strong>Data Analyst</strong></p>
 <p>🎓 I graduated with a degree in <strong>Information Systems, Faculty of Computers & Information</strong>, where I developed a strong foundation in data analysis, business intelligence, and database management.</p>
