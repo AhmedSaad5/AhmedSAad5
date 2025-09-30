@@ -1,14 +1,15 @@
 # Hello! 👋 I'm Ahmed Saad AbdulAziz  
 *Computer Engineer & Data Analyst from Cairo, Egypt*
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20Engineer;Transforming%20Data%20into%20Insights;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22" />
+  </a>
+</p>
+
 
 ---
 
-## About Me  
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
-  </a>
-</p>
+## About Me 
 
 🎓 I graduated with a degree in **Information Systems, Faculty of Computers & Information**, where I developed a strong foundation in data analysis, business intelligence, and database management.  
 
