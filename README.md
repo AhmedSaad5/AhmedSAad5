@@ -14,22 +14,31 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
+  </a>
+</p>
+
 ## Tech Stack  
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-Web%20API-05122A?style=flat" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="70" />&nbsp;
-<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="70" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-Web%20API-05122A?style=flat" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="70" />&nbsp;
+  <img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="70" />
+</p>
+
 
 
 
