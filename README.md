@@ -11,7 +11,7 @@
 </p> 
 
 <p>🏢 I'm a <strong>Data Analyst</strong></p>
-<p>🎓 I recently graduated with a degree in <strong>Information Systems, Faculty of Computers & Information</strong>, where I developed a strong foundation in data analysis, business intelligence, and database management.</p>
+<p>🎓 I graduated with a degree in <strong>Information Systems, Faculty of Computers & Information</strong>, where I developed a strong foundation in data analysis, business intelligence, and database management.</p>
 <p>📊 I'm passionate about turning data into insights and love working with tools like <strong>SQL, PL/SQL, Power BI, Tableau, and Excel</strong> to support data-driven decisions.</p>
 <p>💬 Ask me about my experience with <strong>data visualization, reporting, dashboards</strong>, and translating business needs into analytical solutions.</p>
 <p>⚡ <strong>Fun Fact:</strong> I'm a coffee enthusiast — nothing kickstarts a data project like a hot cup of coffee!</p>
