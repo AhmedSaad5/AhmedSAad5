@@ -25,21 +25,22 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/Entity%20Framework-05122A?style=flat&logo=.net&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/MVC-05122A?style=flat&logo=dotnet&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/Web%20API-05122A?style=flat&logo=dotnet&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="60" />&nbsp;
-<img src="https://img.shields.io/badge/Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="85" width="100" />
+  <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/Entity%20Framework-05122A?style=flat&logo=.net&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/MVC-05122A?style=flat&logo=dotnet&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/Web%20API-05122A?style=flat&logo=dotnet&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="85" />&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="85" />&nbsp;
+<img src="https://img.shields.io/badge/Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="85" />
+
 
 </p>
 
