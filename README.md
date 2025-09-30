@@ -10,10 +10,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As an IS student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML, CSS, JavaScript, jQuery, Bootstrap, Entity Framework, MVC, Web API, and Angular.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+🏢 I'm a Data Analyst
+🎓 I graduated with a degree in Information Systems, where I developed a strong foundation in data analysis, business intelligence, and database management.
+📊 I'm passionate about turning data into insights and love working with tools like SQL, PL/SQL, Power BI, Tableau, and Excel to support data-driven decisions.
+💬 Ask me about my experience with data visualisation, reporting, dashboards, and translating business needs into analytical solutions.
+⚡ Fun Fact: I'm a coffee enthusiast — nothing kickstarts a data project like a hot cup of coffee!
 
 ### 🛠 &nbsp;Tech Stack
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
