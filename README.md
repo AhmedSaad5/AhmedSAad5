@@ -62,9 +62,9 @@
 ---
 
 ## Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AbdulAziz-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ahmed-masoud93/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20AbdulAziz-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/ahmed-masoud93/])  
 [![Gmail](https://img.shields.io/badge/Gmail-Ahmed%20AbdulAziz-red?style=flat&logo=gmail)](mailto:mod0yh74@gmail.com)  
-#[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0078D7?style=flat&logo=github)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0078D7?style=flat&logo=github)](https://your-portfolio-link.com)
 
 ---
 
