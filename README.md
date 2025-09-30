@@ -39,7 +39,8 @@
   <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white" height="60" />&nbsp;
   <img src="https://img.shields.io/badge/PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white" height="60" />&nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" height="60" />&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="60" />
+<img src="https://img.shields.io/badge/Tableau-05122A?style=flat&logo=tableau&logoColor=E97627" height="100" width="160" />
+
 </p>
 
 
