@@ -22,14 +22,17 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=ASP.NET)&nbsp;
 ![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=white)&nbsp;
+
+
 
 
 
