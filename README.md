@@ -1,13 +1,9 @@
-# Hello! 👋 I'm Ahmed Saad AbdulAziz  
-*Computer Engineer & Data Analyst from Egypt, Cairo *
+<h1 align="center">Hi 👋, I'm Ahmed Saad</h1>
+<h3 align="center">Data Analyst Engineer | .NET Full-Stack Developer</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20Engineer;Transforming%20Data%20into%20Insights;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22" />
-  </a>
+Building data-driven solutions and scalable web applications.
 </p>
-
-
----
 
 ## About Me 
 
