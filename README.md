@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saad AbdulAziz</h1>
-<h3 align="center">Data Analyst Engineer | .NET Full-Stack Developer</h3>
+<h3 align="center">Data Analyst Engineer | PHP Full-Stack Developer</h3>
 
 <p align="center">
 Building data-driven solutions and scalable web applications.
